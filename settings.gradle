@@ -1,0 +1,2 @@
+rootProject.name='firebase_image_recycalerview'
+include ':app'

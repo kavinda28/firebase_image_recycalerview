@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "389214138781",
+    "project_id": "addimage-show-recycalerview",
+    "storage_bucket": "addimage-show-recycalerview.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389214138781:android:d4b1d5ff994feee5e0bf74",
+        "android_client_info": {
+          "package_name": "com.example.firebase_image_recycalerview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389214138781-ldf75usgnpuo258i145fm0dtce6avqlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXQRlBjfnE9nvg4Du4K_nlnJd-P_TBzAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389214138781-ldf75usgnpuo258i145fm0dtce6avqlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
